@@ -31,5 +31,10 @@ SQL
       <td><a href="https://github.com/amirazamatov/Yandex_Practicum/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/amirazamatov/Yandex_Practicum?style=flat-square&labelColor=343b41"/></a></td>
       <td><a href="https://github.com/amirazamatov/Yandex_Practicum/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/amirazamatov/Yandex_Practicum?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/amirazamatov/Donor_Search"><b>Donor Search</b></a></td>
+      <td><a href="https://github.com/amirazamatov/Donor_Search/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/amirazamatov/Yandex_Practicum?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/amirazamatov/Donor_Search/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/amirazamatov/Yandex_Practicum?style=flat-square&labelColor=343b41"/></a></td>
+    </tr>
   </tbody>
 </table>
